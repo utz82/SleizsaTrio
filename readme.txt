@@ -49,6 +49,7 @@ How to Use
 ==========
 
 Step 1: Make some music using the included music.xm template.
+        Tones go on channels 1-3, noise goes on ch3, drums go on ch4.
 Step 2: Execute compile.bat (Win) resp. compile.sh (*nix).
 Step 3: Profit!
 
